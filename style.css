@@ -1,0 +1,28 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1440px;
+    height: 960px;
+    background-color: aquamarine;
+}
+
+.qr-code {
+    width: 320px;
+    height: 499px;
+    border: 2px solid red;
+    /* overflow: hidden; */
+    /* display: flex; */
+    
+
+}
+
+
+.attribution {
+    margin-top: 50px;
+}
